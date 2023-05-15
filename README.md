@@ -24,4 +24,5 @@
 # 
 # <a border="0" href="http://tracking.nhqv.com/tracking?SITE_ID=4&SEND_ID=3980109&SCHD_ID=2977176&WORKDAY=20230426&TRACKING_CLOSE=2023-04-19&TYPE=C&CLICK_ID=002&MEMBER_ID=a3lvdWppbi5raW1Abmhxdi5jb20=&MEMBER_ID_SEQ=32958&URL=https://download.nhqv.com/www/plugin/pdfjs/web/viewer.html?r=CommFile&p=/cis/rsh/inv&i=CISPPR20230417155400047" target="_blank" title="NH 리서치 원문보기"><img border="0" src="https://www.nhqv.com/img/ems/research/img_09.jpg"></a>
 
-https://drive.google.com/file/d/1JyLGnWFbSGnxZyPyhBu-yBbnNwXmD_6P/view?usp=share_link
+모델 실행 파일
+https://drive.google.com/file/d/1aE7DkzP-Xh9P8mZBlcFnM_xG-HWtP7Zt/view?usp=share_link
