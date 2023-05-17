@@ -25,5 +25,5 @@
 # <a border="0" href="http://tracking.nhqv.com/tracking?SITE_ID=4&SEND_ID=3980109&SCHD_ID=2977176&WORKDAY=20230426&TRACKING_CLOSE=2023-04-19&TYPE=C&CLICK_ID=002&MEMBER_ID=a3lvdWppbi5raW1Abmhxdi5jb20=&MEMBER_ID_SEQ=32958&URL=https://download.nhqv.com/www/plugin/pdfjs/web/viewer.html?r=CommFile&p=/cis/rsh/inv&i=CISPPR20230417155400047" target="_blank" title="NH 리서치 원문보기"><img border="0" src="https://www.nhqv.com/img/ems/research/img_09.jpg"></a>
 
 <br/><br/>
-#어플리케이션 설치 및 실행
+# <img src ="https://github.com/kyoujinkim/NH_ConsensusGPT/assets/89054575/49750294-ca82-4312-976c-cb42bd1cdd58" height="40px">어플리케이션 설치 및 실행
 - [링크](https://github.com/kyoujinkim/ConsensusGPT_Application/tree/master)에서 어플리케이션 설치법 확인
